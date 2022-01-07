@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @madangle
+- 👋 Hi, I’m Rishikesh (@madangle)
 - :spider_web: I got a tatto on my right hand. Hakuna Mathatha
 - 👀 I’m interested in coding, music, movie
 - 🌱 JavaScript Expert, but still learning
